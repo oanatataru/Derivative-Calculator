@@ -1,0 +1,36 @@
+# INSTRUCTIONS FOR USE #
+To read the expression, click on the reading area and enter the expression.
+It is possible to use the BACKSPACE key to modify the mathematical expression.
+To exit the reading area, press ENTER.
+Attention!
+- The only characters allowed are: Arabic numerals, uppercase and lowercase 
+letters (English alphabet), operators: +, -, *, /, ^, ., (, )
+- Once the reading area is accessed, other functionalities of the application cannot
+be accessed until reading is complete (enter key)
+That said, enjoy :)
+DARK
+LIGHT
+RO
+ENG
+Enter the function:
+Attach a file
+2nd derivative
+1st derivative
+Derivative tree
+Formula tree
+Use of prohibited characters
+Incorrect number of brackets
+Operators used incorrectly
+Variables used incorrectly
+Constants used incorrectly
+Functions used incorrectly
+Open brackets used incorrectly
+Close brackets used incorrectly
+Incorrectly written numbers
+Derivative tree
+The postfixed form of the expression is:
+Too long
+Enter another expression:
+Rules
+Exit
+- Available functions: ln, e, sqrt, sin, cos, tg, ctg, arcsin, arccos, arctg, arcctg

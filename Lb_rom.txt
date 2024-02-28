@@ -1,0 +1,36 @@
+# INSTRUCTIUNI DE UTILIZARE #
+Pentru a citi expresia, da click pe zona de citire si introdu expresia dorita.
+Este posibila utilizarea tastei BACKSPACE pentru a modifica expresia matematica.
+Pentru a iesi din zona de citire apasati ENTER.
+Atentie!
+- Singurele caractere permise sunt: cifre arabe, majuscule si minuscule (alfabet
+englez), operatorii: +, -, *, /, ^, ., (, )
+- Odata accesata zona de citire, nu se pot accesa alte functionalitati ale aplicatiei
+pana la finalizarea citirii (tasta Enter)
+Acestea fiind spuse, enjoy:)
+DARK
+LIGHT
+RO
+ENG
+Introduceti functia:
+Atasati un fisier
+Derivata ordin II
+Derivata ordin I
+Arbore derivata
+Arbore formula
+Utilizare de caractere interzise
+Numar de paranteze incorect
+Operatori utilizati incorect
+Variabile utilizate incorect
+Constante utilizate incorect
+Functii utilizate incorect
+Paranteze deschise utilizate incorect
+Paranteze inchise utilizate incorect
+Numere scrise incorect
+Arborele derivatei
+Forma postfixata a expresiei este:
+Prea lung
+Introduceti alta expresie:
+Reguli
+Iesire
+- Functii disponibile: ln, e, sqrt, sin, cos, tg, ctg, arcsin, arccos, arctg, arcctg
